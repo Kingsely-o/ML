@@ -9,6 +9,10 @@ The following libraries are required:
 - pandas
 - scikit-learn
 - matplotlib
+- xgboost
+- catboost
+- pytorch
+
 
 ## Installation Guide
 To install these dependencies, run the following command:
